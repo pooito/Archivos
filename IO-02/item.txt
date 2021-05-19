@@ -1,0 +1,2 @@
+643 Guillermo Fernandez 20 1500,400024 false
+642 Laura Lopez 30 12500,400391 true
