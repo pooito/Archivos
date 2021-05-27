@@ -1,0 +1,6 @@
+10 TDR8282 Java 7300 true
+20 YR63772 Fundamentos de Java 919 false
+30 TDR8211 Introduccion a Java 7300 true
+40 YR63778 Fundamentos de POO 919 true
+50 ADR8211 Introduccion a los lenguajes de programacion 7300 true
+60 PR63778 Fundamentos de POO en Java 919 true
